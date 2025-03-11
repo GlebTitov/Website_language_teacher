@@ -32,7 +32,7 @@
             </p>
           </div>
           <div class="testimonial-author">
-            <img src="./assets/testimonial-1.jpg" alt="Мария К." class="author-image" />
+            <img src="" alt="Мария К." class="author-image" />
             <div class="author-info">
               <h4 class="author-name">Мария К.</h4>
               <p class="author-position">Маркетолог</p>
@@ -49,7 +49,7 @@
             </p>
           </div>
           <div class="testimonial-author">
-            <img src="./assets/testimonial-2.jpg" alt="Алексей П." class="author-image" />
+            <img src="" alt="Алексей П." class="author-image" />
             <div class="author-info">
               <h4 class="author-name">Алексей П.</h4>
               <p class="author-position">Студент</p>
@@ -66,7 +66,7 @@
             </p>
           </div>
           <div class="testimonial-author">
-            <img src="./assets/testimonial-3.jpg" alt="Елена В." class="author-image" />
+            <img src="" alt="Елена В." class="author-image" />
             <div class="author-info">
               <h4 class="author-name">Елена В.</h4>
               <p class="author-position">Мама ученика</p>
@@ -80,15 +80,15 @@
         <h3>Отзывы на площадках</h3>
         <div class="platform-logos">
           <div class="platform">
-            <img src="./assets/profi-logo.svg" alt="Profi.ru" />
+            <img src="" alt="Profi.ru" />
             <div class="platform-rating">4.9</div>
           </div>
           <div class="platform">
-            <img src="./assets/repetit-logo.svg" alt="Repetit.ru" />
+            <img src="" alt="Repetit.ru" />
             <div class="platform-rating">5.0</div>
           </div>
           <div class="platform">
-            <img src="./assets/yourtutor-logo.svg" alt="YourTutor" />
+            <img src="" alt="YourTutor" />
             <div class="platform-rating">4.8</div>
           </div>
         </div>

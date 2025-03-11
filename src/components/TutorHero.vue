@@ -12,7 +12,7 @@
       </div>
     </div>
     <div class="hero-image">
-      <img src="./assets/tutor-image.jpg" alt="Репетитор по языкам" />
+      <img src="../assets/tutor-image.jpeg" alt="Репетитор по языкам" />
     </div>
     <div class="language-badges">
       <div class="badge english">
