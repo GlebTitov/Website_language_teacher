@@ -4,7 +4,7 @@
       <h2 class="section-title">О репетиторе</h2>
       <div class="about-content">
         <div class="about-image">
-          <img src="/src/assets/tutor-image.jpeg" alt="Фото репетитора" />
+          <img src="" alt="Фото репетитора" />
           <div class="experience-badge">
             <span class="experience-years">10+</span>
             <span class="experience-text">лет опыта</span>
