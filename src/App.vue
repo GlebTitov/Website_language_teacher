@@ -1,4 +1,4 @@
-<<script setup>
+<script setup>
 import TutorHero from './components/TutorHero.vue'
 import AboutTutor from './components/AboutTutor.vue'
 import Services from './components/Services.vue'
@@ -33,11 +33,11 @@ import Footer from './components/Footer.vue'
     <TutorHero />
     <AboutTutor />
     <Services />
-   <Advantages />
-   <PriceTable />
-  <Testimonials />
-  <FAQ />
-  <ContactForm />
+    <Advantages />
+    <PriceTable />
+    <Testimonials />
+    <FAQ />
+    <ContactForm />
   </main>
 
   <Footer />
@@ -45,9 +45,7 @@ import Footer from './components/Footer.vue'
 
 <style>
 *{
-
   font-family: "Merriweather", serif;
-
 }
 :root {
   --primary-color: #5b6bbf;      /* Спокойный синий с фиолетовым оттенком */

@@ -11,5 +11,5 @@ export default defineConfig({
   build: {
     sourcemap: true
   },
-  base: '/' // Явно указываем базовый путь для деплоя
+  base: '/'
 })
