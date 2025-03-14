@@ -9,7 +9,15 @@ export default defineConfig({
     }
   },
   build: {
-    sourcemap: true
+    sourcemap: true,
+    rollupOptions: {
+      output: {
+        format: 'iife', // Ключевое изменение - вместо ESM используем IIFE
+        entryFileNames: 'assets/[name].[hash].js',
+        chunkFileNames: 'assets/[name].[hash].js'
+      },
+      external: ['vue'] // Исключаем Vue из сборки, т.к. используем CDN
+    }
   },
-  base: './'
+  base: './' // Используем относительные пути
 })
